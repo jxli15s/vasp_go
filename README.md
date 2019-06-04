@@ -1,2 +1,6 @@
 # vasp_go
-A tool box for vasp calculations
+A convenient tool box for vasp calculations\
+1.band analysis\
+2.dos analysis\
+3.topological electrons analysis\
+3.topological phonons analysis
